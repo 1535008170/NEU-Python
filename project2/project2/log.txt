@@ -1,0 +1,180 @@
+2022-11-20 14:24:26,285 - __main__ - INFO - Start print log
+2022-11-20 14:24:26,285 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 14:24:26,286 - __main__ - ERROR - ERROR message!
+2022-11-20 14:24:26,286 - __main__ - WARNING - abc
+2022-11-20 14:24:26,286 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 16:17:17,970 - __main__ - INFO - Start print log
+2022-11-20 16:17:17,971 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 16:17:17,972 - __main__ - ERROR - ERROR message!
+2022-11-20 16:17:17,972 - __main__ - WARNING - abc
+2022-11-20 16:17:17,972 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 16:41:33,355 - __main__ - INFO - Start print log
+2022-11-20 16:41:33,359 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 16:41:33,367 - __main__ - ERROR - ERROR message!
+2022-11-20 16:41:33,367 - __main__ - WARNING - abc
+2022-11-20 16:41:33,367 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:01:21,355 - __main__ - INFO - Start print log
+2022-11-20 20:01:21,356 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:01:21,357 - __main__ - ERROR - ERROR message!
+2022-11-20 20:01:21,357 - __main__ - WARNING - abc
+2022-11-20 20:01:21,357 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:16:17,496 - __main__ - INFO - Start print log
+2022-11-20 20:16:17,497 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:16:17,498 - __main__ - ERROR - ERROR message!
+2022-11-20 20:16:17,499 - __main__ - WARNING - abc
+2022-11-20 20:16:17,499 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:17:52,218 - __main__ - INFO - Start print log
+2022-11-20 20:17:52,219 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:17:52,219 - __main__ - ERROR - ERROR message!
+2022-11-20 20:17:52,219 - __main__ - WARNING - abc
+2022-11-20 20:17:52,219 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:19:02,689 - __main__ - INFO - Start print log
+2022-11-20 20:19:02,690 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:19:02,690 - __main__ - ERROR - ERROR message!
+2022-11-20 20:19:02,690 - __main__ - WARNING - abc
+2022-11-20 20:19:02,690 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:24:13,376 - __main__ - INFO - Start print log
+2022-11-20 20:24:13,377 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:24:13,378 - __main__ - ERROR - ERROR message!
+2022-11-20 20:24:13,378 - __main__ - WARNING - abc
+2022-11-20 20:24:13,378 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:27:23,803 - __main__ - INFO - Start print log
+2022-11-20 20:27:23,804 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:27:23,804 - __main__ - ERROR - ERROR message!
+2022-11-20 20:27:23,804 - __main__ - WARNING - abc
+2022-11-20 20:27:23,804 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:30:45,415 - __main__ - INFO - Start print log
+2022-11-20 20:30:45,417 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:30:45,417 - __main__ - ERROR - ERROR message!
+2022-11-20 20:30:45,417 - __main__ - WARNING - abc
+2022-11-20 20:30:45,417 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:31:40,354 - __main__ - INFO - Start print log
+2022-11-20 20:31:40,355 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:31:40,355 - __main__ - ERROR - ERROR message!
+2022-11-20 20:31:40,355 - __main__ - WARNING - abc
+2022-11-20 20:31:40,355 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:31:59,215 - __main__ - INFO - Start print log
+2022-11-20 20:31:59,216 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:31:59,217 - __main__ - ERROR - ERROR message!
+2022-11-20 20:31:59,217 - __main__ - WARNING - abc
+2022-11-20 20:31:59,217 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:35:22,504 - __main__ - INFO - Start print log
+2022-11-20 20:35:22,505 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:35:22,506 - __main__ - ERROR - ERROR message!
+2022-11-20 20:35:22,506 - __main__ - WARNING - abc
+2022-11-20 20:35:22,506 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:36:18,974 - __main__ - INFO - Start print log
+2022-11-20 20:36:18,974 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:36:18,975 - __main__ - ERROR - ERROR message!
+2022-11-20 20:36:18,975 - __main__ - WARNING - abc
+2022-11-20 20:36:18,975 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:37:16,197 - __main__ - INFO - Start print log
+2022-11-20 20:37:16,197 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:37:16,198 - __main__ - ERROR - ERROR message!
+2022-11-20 20:37:16,198 - __main__ - WARNING - abc
+2022-11-20 20:37:16,198 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:40:24,566 - __main__ - INFO - Start print log
+2022-11-20 20:40:24,567 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:40:24,567 - __main__ - ERROR - ERROR message!
+2022-11-20 20:40:24,567 - __main__ - WARNING - abc
+2022-11-20 20:40:24,568 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:40:58,951 - __main__ - INFO - Start print log
+2022-11-20 20:40:58,951 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:40:58,952 - __main__ - ERROR - ERROR message!
+2022-11-20 20:40:58,952 - __main__ - WARNING - abc
+2022-11-20 20:40:58,952 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:41:46,270 - __main__ - INFO - Start print log
+2022-11-20 20:41:46,272 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:41:46,273 - __main__ - ERROR - ERROR message!
+2022-11-20 20:41:46,273 - __main__ - WARNING - abc
+2022-11-20 20:41:46,274 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:48:15,432 - __main__ - INFO - Start print log
+2022-11-20 20:48:15,433 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:48:15,433 - __main__ - ERROR - ERROR message!
+2022-11-20 20:48:15,434 - __main__ - WARNING - abc
+2022-11-20 20:48:15,434 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:49:33,832 - __main__ - INFO - Start print log
+2022-11-20 20:49:33,833 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:49:33,833 - __main__ - ERROR - ERROR message!
+2022-11-20 20:49:33,834 - __main__ - WARNING - abc
+2022-11-20 20:49:33,834 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:55:17,357 - __main__ - INFO - Start print log
+2022-11-20 20:55:17,358 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:55:17,358 - __main__ - ERROR - ERROR message!
+2022-11-20 20:55:17,358 - __main__ - WARNING - abc
+2022-11-20 20:55:17,359 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 20:58:20,912 - __main__ - INFO - Start print log
+2022-11-20 20:58:20,913 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 20:58:20,913 - __main__ - ERROR - ERROR message!
+2022-11-20 20:58:20,913 - __main__ - WARNING - abc
+2022-11-20 20:58:20,913 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 21:00:25,045 - __main__ - INFO - Start print log
+2022-11-20 21:00:25,046 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 21:00:25,046 - __main__ - ERROR - ERROR message!
+2022-11-20 21:00:25,046 - __main__ - WARNING - abc
+2022-11-20 21:00:25,046 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 21:01:02,819 - __main__ - INFO - Start print log
+2022-11-20 21:01:02,819 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 21:01:02,820 - __main__ - ERROR - ERROR message!
+2022-11-20 21:01:02,820 - __main__ - WARNING - abc
+2022-11-20 21:01:02,820 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 21:07:39,390 - __main__ - INFO - Start print log
+2022-11-20 21:07:39,391 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 21:07:39,391 - __main__ - ERROR - ERROR message!
+2022-11-20 21:07:39,391 - __main__ - WARNING - abc
+2022-11-20 21:07:39,392 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 22:25:43,351 - __main__ - INFO - Start print log
+2022-11-20 22:25:43,352 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 22:25:43,353 - __main__ - ERROR - ERROR message!
+2022-11-20 22:25:43,353 - __main__ - WARNING - abc
+2022-11-20 22:25:43,353 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 22:26:36,934 - __main__ - INFO - Start print log
+2022-11-20 22:26:36,934 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 22:26:36,935 - __main__ - ERROR - ERROR message!
+2022-11-20 22:26:36,935 - __main__ - WARNING - abc
+2022-11-20 22:26:36,935 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 22:27:29,222 - __main__ - INFO - Start print log
+2022-11-20 22:27:29,223 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 22:27:29,223 - __main__ - ERROR - ERROR message!
+2022-11-20 22:27:29,223 - __main__ - WARNING - abc
+2022-11-20 22:27:29,223 - __main__ - INFO - Finish your work!Good job!
+2022-11-20 23:07:01,791 - __main__ - INFO - Start print log
+2022-11-20 23:07:01,792 - __main__ - INFO - project2_Information of Second hand house
+2022-11-20 23:07:01,793 - __main__ - ERROR - ERROR message!
+2022-11-20 23:07:01,793 - __main__ - WARNING - abc
+2022-11-20 23:07:01,793 - __main__ - INFO - Finish your work!Good job!
+2022-11-21 13:52:22,010 - __main__ - INFO - Start print log
+2022-11-21 13:52:22,013 - __main__ - INFO - project2_Information of Second hand house
+2022-11-21 13:52:22,014 - __main__ - ERROR - ERROR message!
+2022-11-21 13:52:22,014 - __main__ - WARNING - abc
+2022-11-21 13:52:22,014 - __main__ - INFO - Finish your work!Good job!
+2022-11-21 14:44:48,340 - __main__ - INFO - Start print log
+2022-11-21 14:44:48,341 - __main__ - INFO - project2_Information of Second hand house
+2022-11-21 14:44:48,341 - __main__ - ERROR - ERROR message!
+2022-11-21 14:44:48,341 - __main__ - WARNING - abc
+2022-11-21 14:44:48,341 - __main__ - INFO - Finish your work!Good job!
+2022-11-21 14:52:32,347 - __main__ - INFO - Start print log
+2022-11-21 14:52:32,348 - __main__ - INFO - project2_Information of Second hand house
+2022-11-21 14:52:32,348 - __main__ - ERROR - ERROR message!
+2022-11-21 14:52:32,349 - __main__ - WARNING - abc
+2022-11-21 14:52:32,349 - __main__ - INFO - Finish your work!Good job!
+2022-11-21 14:53:43,859 - __main__ - INFO - Start print log
+2022-11-21 14:53:43,860 - __main__ - INFO - project2_Information of Second hand house
+2022-11-21 14:53:43,860 - __main__ - ERROR - ERROR message!
+2022-11-21 14:53:43,860 - __main__ - WARNING - abc
+2022-11-21 14:53:43,860 - __main__ - INFO - Finish your work!Good job!
+2022-11-21 15:02:09,997 - __main__ - INFO - Start print log
+2022-11-21 15:02:09,998 - __main__ - INFO - project2_Information of Second hand house
+2022-11-21 15:02:09,998 - __main__ - ERROR - ERROR message!
+2022-11-21 15:02:09,998 - __main__ - WARNING - abc
+2022-11-21 15:02:09,999 - __main__ - INFO - Finish your work!Good job!
+2022-11-21 15:07:19,568 - __main__ - INFO - Start print log
+2022-11-21 15:07:19,569 - __main__ - INFO - project2_Information of Second hand house
+2022-11-21 15:07:19,569 - __main__ - ERROR - ERROR message!
+2022-11-21 15:07:19,569 - __main__ - WARNING - abc
+2022-11-21 15:07:19,569 - __main__ - INFO - Finish your work!Good job!
+2022-11-21 15:15:02,635 - __main__ - INFO - Start print log
+2022-11-21 15:15:02,637 - __main__ - INFO - project2_Information of Second hand house
+2022-11-21 15:15:02,637 - __main__ - ERROR - ERROR message!
+2022-11-21 15:15:02,637 - __main__ - WARNING - abc
+2022-11-21 15:15:02,638 - __main__ - INFO - Finish your work!Good job!
